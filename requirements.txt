@@ -1,0 +1,3 @@
+# Python, PostgreSQL (database type)
+# Library Requirements:
+	# Libraries: pandas, numpy, matplotlib, seaborn, plotly, sklearn, psycopg2, SQLAlchemy, scipy, streamlit
